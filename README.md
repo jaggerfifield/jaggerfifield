@@ -3,10 +3,16 @@
 
 ## 👀 I’m interested in ...
 - Technology + art and how they work together.
+- Image processing
+- 3D and 2D media
+- Blender
+- Live Production/Streaming
 
 ## 🌱 I’m currently learning ...
-- Image processing
-- Cuda and opencl
+
+- SDL3 and Raylib for C programming
+- TouchDesigner python intergration for reatime video
+- 日本語
 
 <!---
 jaggerfifield/jaggerfifield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
